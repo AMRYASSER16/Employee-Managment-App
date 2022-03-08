@@ -1,0 +1,11 @@
+.employee hr{
+    border-color: #B7B7B7;
+    border-top: 0;
+    width: 97%;
+    margin: 59px auto;
+}
+
+.employee ul{
+    padding: 0;
+    margin-top: 27px;
+} 

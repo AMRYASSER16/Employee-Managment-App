@@ -1,0 +1,44 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Khaled",
+      "status": "incheck"
+    },
+    {
+      "id": 2,
+      "name": "Amr",
+      "status": "approved"
+    },
+    {
+      "id": 3,
+      "name": "Ahmed",
+      "status": "active"
+    },
+    {
+      "id": 4,
+      "name": "Mohamed",
+      "status": "approved"
+    },
+    {
+      "id": 5,
+      "name": "Mohamed",
+      "status": "approved"
+    },
+    {
+      "id": 6,
+      "name": "Khaled",
+      "status": "approved"
+    },
+    {
+      "id": 7,
+      "name": "Saeed",
+      "status": "approved"
+    },
+    {
+      "id": 8,
+      "name": "Alaa",
+      "status": "Approved"
+    }
+  ]
+}

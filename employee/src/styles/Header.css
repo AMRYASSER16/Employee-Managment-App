@@ -1,0 +1,23 @@
+.header {
+    padding: 10px;
+    margin-top: 0;
+    box-shadow: 0 3px 6px #00000029;
+    padding: 20px 40px;
+}
+
+.header div:first-child{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header .button{
+    background-color: #0057D9;
+    border:1px solid #0057D9;
+    color: #fff;
+    border-radius: 4px;
+    padding: 10px 30px;
+    cursor: pointer;
+    text-decoration: none;
+    text-transform: capitalize;
+}

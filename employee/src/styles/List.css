@@ -1,0 +1,44 @@
+.employee-list {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin: 19px;
+	box-shadow: 0 3px 6px #00000029;
+	padding: 29px 40px;
+}
+
+.employee-list .employee-info {
+	display: flex;
+	align-items: center;
+}
+
+.employee-list .employee-info .employee-col:first-child {
+	margin-right: 50px;
+}
+
+.employee-list .employee-info .employee-col .employee-title,
+.employee-list .employee-info .employee-col .employee-status {
+	color: #4b4b4b;
+	text-transform: capitalize;
+	margin-bottom: 14px;
+	display: inline-block;
+}
+
+.employee-list .employee-info .employee-col .employee-name,
+.employee-list .employee-info .employee-col .status {
+	text-transform: capitalize;
+}
+
+.employee-list .employee-edit-btn .button {
+    background-color: #0057D9;
+    border:1px solid #0057D9;
+    color: #fff;
+    border-radius: 4px;
+    padding: 10px 30px;
+    cursor: pointer;
+    text-decoration: none;
+    text-transform: capitalize;
+    width: 108px;
+    display: inline-block;
+    text-align: center;
+}

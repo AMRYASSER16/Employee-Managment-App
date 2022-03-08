@@ -1,0 +1,95 @@
+.status .status-buttons {
+	width: 97%;
+	margin: auto;
+}
+
+.status-content .employee-type {
+	text-transform: capitalize;
+	margin: 14px;
+}
+
+.status-content .employee-type .employee-name {
+	padding-left: 0;
+	list-style: none;
+	margin: 8px 0;
+}
+
+.status .status-buttons {
+	display: flex;
+	border: 1px solid #edf0f3;
+	background: #fff;
+	margin-bottom: 24px;
+	position: relative;
+    z-index: 1;
+}
+
+.status .status-buttons button {
+	width: 180px;
+	border: 0;
+	cursor: pointer;
+	background: unset;
+	padding: 23px 0;
+	text-transform: capitalize;
+	position: relative;
+}
+
+.status .status-buttons button .status-bk {
+	background-image: url('../assets/images/states.png');
+    width: 34px;
+    height: 61.5px;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0px;
+    right: 0;
+    z-index: 1;
+    background-size: cover;
+}
+
+.status .status-buttons .active {
+	color: #fff;
+	text-transform: uppercase;
+	background-color: #0057D9;
+	margin: 0 0 0 23px;
+}
+
+.status .status-buttons .active:first-child{
+	margin: 0;
+}
+
+.status .status-buttons button::after {
+    content: '';
+    width: 2px;
+    height: 35.5px;
+    position: absolute;
+    z-index: 1;
+    background-color: #eee;
+    top: -4px;
+    right: 11px;
+    transform: rotate(-39deg);
+}
+
+.status .status-buttons button::before {
+	content: '';
+    width: 2px;
+    height: 36.5px;
+    position: absolute;
+    z-index: 1;
+    background-color: #eee;
+    top: 26px;
+    right: 7px;
+    transform: rotate(24deg);
+}
+
+.status .status-buttons .active::after,
+.status .status-buttons .active::before{
+	display: none;
+}
+
+.status .status-buttons button:last-child::after,
+.status .status-buttons button:last-child::before {
+	display: none;
+}
+
+.employees-number {
+	margin: 20px 18px 0;
+}
