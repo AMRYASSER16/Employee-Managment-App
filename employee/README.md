@@ -1,4 +1,4 @@
-please to use npm install when open the FE app and the API app.
+Please to use npm install when open the FE app and the API app.
 
 Runs the FE app in the development mode. by using npm start
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
