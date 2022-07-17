@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Magic-MemoryGame/static/css/main.a9eed4fa.css",
-    "main.js": "/Magic-MemoryGame/static/js/main.ad234a66.js",
-    "static/media/Roboto-Medium.ttf": "/Magic-MemoryGame/static/media/Roboto-Medium.7429a63c09f79a1760b0.ttf",
-    "static/media/Roboto-Regular.ttf": "/Magic-MemoryGame/static/media/Roboto-Regular.a8d6ac03c7b96b7acb62.ttf",
-    "static/media/Roboto-Bold.ttf": "/Magic-MemoryGame/static/media/Roboto-Bold.75371f53f06181df75f1.ttf",
-    "index.html": "/Magic-MemoryGame/index.html",
-    "main.a9eed4fa.css.map": "/Magic-MemoryGame/static/css/main.a9eed4fa.css.map",
-    "main.ad234a66.js.map": "/Magic-MemoryGame/static/js/main.ad234a66.js.map"
+    "main.css": "/Employee-Managment-App/static/css/main.64044ebc.css",
+    "main.js": "/Employee-Managment-App/static/js/main.ad234a66.js",
+    "static/media/Roboto-Medium.ttf": "/Employee-Managment-App/static/media/Roboto-Medium.7429a63c09f79a1760b0.ttf",
+    "static/media/Roboto-Regular.ttf": "/Employee-Managment-App/static/media/Roboto-Regular.a8d6ac03c7b96b7acb62.ttf",
+    "static/media/Roboto-Bold.ttf": "/Employee-Managment-App/static/media/Roboto-Bold.75371f53f06181df75f1.ttf",
+    "index.html": "/Employee-Managment-App/index.html",
+    "main.64044ebc.css.map": "/Employee-Managment-App/static/css/main.64044ebc.css.map",
+    "main.ad234a66.js.map": "/Employee-Managment-App/static/js/main.ad234a66.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9eed4fa.css",
+    "static/css/main.64044ebc.css",
     "static/js/main.ad234a66.js"
   ]
 }
