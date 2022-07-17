@@ -1,5 +1,5 @@
 {
-  "homepage": "http://AMRYASSER16.github.io/Magic-MemoryGame",
+  "homepage": "http://AMRYASSER16.github.io/Employee-Managment-App",
   "name": "employee management app",
   "version": "0.1.0",
   "private": true,
@@ -47,5 +47,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
